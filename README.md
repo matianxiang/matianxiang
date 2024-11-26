@@ -9,6 +9,8 @@
 - 💬 Ask me about **react,vue**
 
 - 📫 How to reach me **2950208312@qq.com**
+
+- ✔  Experience: 云合智网、滴滴、小米、联影
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
